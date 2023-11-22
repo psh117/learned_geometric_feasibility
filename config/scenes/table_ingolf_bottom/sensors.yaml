@@ -1,0 +1,9 @@
+camera_config: configs/sensors/camera.yaml
+look_objects:
+    - name: "table_top" 
+      position: [0, 0.0, 0.0]
+
+cam_points:
+    - [0.0, 0.0, 2]
+
+resolution: 0.02

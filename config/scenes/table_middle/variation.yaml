@@ -1,0 +1,20 @@
+# add size variation
+
+- names: ["World"]
+  position: [0.1 , 0.1, 0.1]
+  orientation: [0, 0, 1.57]
+  type: "uniform"
+- names: ["TargetObject"]
+  position: [0.25 , 0.55, 0]
+  orientation: [1.59, 1.57, 1.57]
+  type: "uniform"
+- names: [ "Object2", "Object3", "Object4", "Object5", "Cube"]
+  position: [0.3 , 0.6, 0]
+  orientation: [0 , 0, 1.57]
+  size: [0.1, 0.1, 0.1]
+  type: "uniform"
+- names: ["Object1"]
+  position: [0.1 , 0.1, 0]
+  orientation: [0 , 0, 1.57]
+  size: [0.1, 0.1]
+  type: "uniform"
